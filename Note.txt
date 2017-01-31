@@ -1,0 +1,21 @@
+
+Service Process - Get Employee Profile
+
+Get employee private data
+Get employee company data
+Construct in 
+
+
+employee
+id
+name
+address
+date_birth
+
+employee company
+id
+id_employee
+job_title
+start_date
+
+
